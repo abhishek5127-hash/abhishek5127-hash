@@ -78,24 +78,4 @@ I enjoy learning new technologies, solving coding problems, and building project
 
 ---
 
-<h3 align="center">🚀 Featured Project</h3>
 
-<div align="center">
-
-### OpenChat AI
-
-An AI-powered conversational assistant project.
-
-<a href="https://github.com/abhishek5127-hash">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile!**
-
-</div>
