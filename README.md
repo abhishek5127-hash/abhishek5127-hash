@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./banner.jpg" width="100%" alt="Abhishek's Banner"/>
+
+</div>
+<div align="center">
+
 # Welcome to Abhishek's Github
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=150&section=header&text=Welcome%20to%20Abhishek's%20Github&fontSize=35&fontColor=111111&fontAlignY=50"/>
