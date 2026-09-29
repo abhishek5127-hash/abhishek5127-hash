@@ -5,11 +5,7 @@
 </div>
 <div align="center">
 
-# Welcome to Abhishek's Github
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=150&section=header&text=Welcome%20to%20Abhishek's%20Github&fontSize=35&fontColor=111111&fontAlignY=50"/>
-
-<br/>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
