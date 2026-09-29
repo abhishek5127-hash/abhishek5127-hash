@@ -1,26 +1,76 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:301060,100:6A00F5&height=200&section=header&text=ABHISHEK&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20DEVELOPER&descAlignY=58&descSize=18"/>
+# Welcome to Abhishek's GitHub
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;AI%2FML+Student+%F0%9F%A4%96;Building+OpenChat+AI+%F0%9F%9A%80;Learning+and+Building+Every+Day+%E2%9C%A8" />
+### `< / >`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=5"/>
+
+<br/>
+
+<a href="https://github.com/abhishek5127-hash">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br/>
+</div>
 
-### 👨‍💻 B.Tech CSE | Artificial Intelligence & Machine Learning
+---
 
-<br/>
+## 👨‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek5127-hash&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek5127-hash&theme=midnight-purple&hide_border=true&background=00000000" width="49%"/>
+<div align="center">
+
+<img align="right" width="200" src="https://github-readme-stats.vercel.app/api?username=abhishek5127-hash&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+
+</div>
+
+Hello! I'm **Abhishek**, a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.
+
+- 🎓 Studying Computer Science and Engineering.
+- 💻 Learning Data Structures and Algorithms.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Building OpenChat AI.
+
+<br clear="all"/>
+
+---
+
+## ⚙️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nextjs,tailwind,nodejs,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek5127-hash&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek5127-hash&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5127-hash&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek5127-hash&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,100:000000&height=100&section=footer"/>
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+`BUILDING • LEARNING • CREATING`
 
 </div>
